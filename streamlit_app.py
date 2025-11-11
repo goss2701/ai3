@@ -71,14 +71,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]: {
        "texts": ["레제는 폭탄의 악마입니다"],
-       "images": ["https://i2.ruliweb.com/cmt/25/10/02/199a430c1c559ea8e.png"],
-      "videos": ["https://www.youtube.com/shorts/cUqz8WHgKPw"]
+       "images": ["https://i.namu.wiki/i/vIIlGWKxDCepam3Stal063Nnzarhlif0mM0lCShr1upmWiefZUaWatKyv2seb2peajvRd885cXAc3HB2hYI2iw.webp"],
+      "videos": ["https://www.youtube.com/shorts/vUW_Xm0W2q0"]
      },
 
       labels[1]: {
        "texts": ["마키마는 지배의 악마입니다"],
-       "images": ["https://i.namu.wiki/i/vIIlGWKxDCepam3Stal063Nnzarhlif0mM0lCShr1upmWiefZUaWatKyv2seb2peajvRd885cXAc3HB2hYI2iw.webp"],
-      "videos": ["https://www.youtube.com/shorts/vUW_Xm0W2q0"]
+       "images": ["https://i2.ruliweb.com/cmt/25/10/02/199a430c1c559ea8e.png"],
+      "videos": ["https://www.youtube.com/shorts/cUqz8WHgKPw"]
      },
 }
 
