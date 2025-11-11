@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0]: {
        "texts": ["레제는 폭탄의 악마입니다"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://www.youtube.com/shorts/vUW_Xm0W2q0"]
+      "videos": ["https://www.youtube.com/shorts/vUW_Xm0W2q0"]
      },
 }
 
