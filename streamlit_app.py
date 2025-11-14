@@ -80,6 +80,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i2.ruliweb.com/cmt/25/10/02/199a430c1c559ea8e.png"],
       "videos": ["https://www.youtube.com/shorts/cUqz8WHgKPw"]
      },
+
+     labels[2]: {
+       "texts": ["파워는 피의 악마입니다"],
+       "images": ["https://i.pinimg.com/736x/52/aa/b8/52aab8984427e827e155c45b00541a7a.jpg"],
+      "videos": ["https://www.youtube.com/shorts/loBSd4uECJI"]
+     },
 }
 
 # ======================
