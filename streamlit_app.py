@@ -84,7 +84,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[2]: {
        "texts": ["파워는 피의 악마입니다"],
        "images": ["https://i.pinimg.com/736x/52/aa/b8/52aab8984427e827e155c45b00541a7a.jpg"],
-      "videos": ["https://www.youtube.com/shorts/loBSd4uECJI,https://www.youtube.com/watch?v=NMjhjrBIrG8&list=RDNMjhjrBIrG8&start_radio=1"]
+      "videos": ["https://www.youtube.com/shorts/loBSd4uECJI"]
      },
 }
 
